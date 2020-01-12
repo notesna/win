@@ -1,5 +1,9 @@
-### Информация о системе в консоли:
+### Информация о системе:
 systeminfo
-
-### Сведения о системе в окне:
 msinfo32
+
+### Информация о BIOS:
+reg query HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS
+
+
+
