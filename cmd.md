@@ -6,5 +6,7 @@ msinfo32
 reg query HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS
 wmic bios list brief
 
+### DirectX:
+dxdiag
 
 
