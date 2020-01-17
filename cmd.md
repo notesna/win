@@ -4,6 +4,7 @@ systeminfo
 msinfo32
 #### Список установленного софта:
 wmic product get name
+
 wmic product get name description
 
 ### Информация о BIOS:
